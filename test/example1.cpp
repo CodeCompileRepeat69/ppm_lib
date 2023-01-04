@@ -4,7 +4,7 @@
 #include <string_view>
 #include <variant>
 
-#include"./ppm_lib.hpp"
+#include "../src/ppm_lib.hpp"
 using namespace ppm;
 
 int main(int argc, char const *argv[]) {
